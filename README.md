@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning HTLM5 + CSS, JavaScript and Python.
 
-#You can find me at
+## You can reach me at
 
 ℹ️ <a href="https://www.linkedin.com/in/jakson-jose/" target="_blank">Likedin</a>
 
