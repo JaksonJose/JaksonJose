@@ -1,13 +1,10 @@
-### Hi there, I'm Jakson 👋
+### Hi there, this is Jakson 👋
 
 🌱 I’m currently learning HTLM5 + CSS, JavaScript and Python.
 
 #You can find me at
 
-<a href="https://www.linkedin.com/in/jakson-jose/" target="_blank">Likedin</a>
-
-
-Linkedin
+ℹ️ <a href="https://www.linkedin.com/in/jakson-jose/" target="_blank">Likedin</a>
 
 <!--
 **JaksonJose/JaksonJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
