@@ -1,8 +1,11 @@
-### Hi there, this is Jakson 👋
+## With a borderless world comes superb opportunities.
 
-🌱 I’m currently learning HTLM5 + CSS, JavaScript and Python.
+Hey dude! This is **Jakson José**, I've been centered on becoming a **Full Stack Dev** working on a range of technologies such as HTML5, CSS, Javascript, Python, react, node.js.
 
-### You can reach me at
+I'm a kind of self-taught person and fascinated by technology, mainly about programming. Also, I believe software development can assist companies and people by solving issues, advancing business, and get people a better life.
+
+
+#### You can reach me at
 
 ℹ️ <a href="https://www.linkedin.com/in/jakson-jose/" target="_blank">Likedin</a>
 
