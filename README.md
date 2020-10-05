@@ -1,6 +1,6 @@
 ## With a borderless world comes superb opportunities.
 
-Hey dude! This is **Jakson José**, I've been centered on becoming a **Full Stack Dev** working on a range of technologies such as HTML5, CSS, Javascript, Python, react, node.js.
+Hey dude! This is **Jakson José**, I've been focused on **Full Stack Dev**. Working on a range of technologies such as HTML5, CSS3, JavaScript, Python, React, Node.js.
 
 I'm a kind of self-taught person and fascinated by technology, mainly about programming. Also, I believe software development can assist companies and people by solving issues, advancing business, and get people a better life.
 
