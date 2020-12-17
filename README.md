@@ -1,7 +1,7 @@
 ## With a borderless world comes superb opportunities.
 
 Hey dude! This is **Jakson José**, I've been focused on getting **Full-Stack Developer skills**.
-I'm quite a self-taught person that's fascinated by technology, mainly about programming. Also, I believe software development can assist companies and people by solving issues, advancing business, reaching goals, and get people a better life.
+I'm quite a self-taught person who's fascinated by technology, mainly about programming. Also, I believe software development can assist companies and people by solving issues, advancing business, reaching goals, and get people a better life.
 
 #### You can reach me at
 
