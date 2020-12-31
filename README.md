@@ -1,7 +1,7 @@
-## With a borderless world comes superb opportunities.
+<h1 align="center"> With a borderless world comes superb opportunities.</h1>
 
-Hey dude! This is **Jakson José**, I've been focused on **Full-Stack Developer skills**.
-I'm quite a self-taught person who's fascinated by technology, mainly about programming. Also, I believe software development can assist companies and people by solving issues, advancing business, reaching goals, and get people a better life.
+<p align="Justify">Hey dude! This is <strong>Jakson José</strong>, I've been focused on <strong>Full-Stack Developer skills</strong>.
+I'm quite a self-taught person who's fascinated by technology, mainly about programming. Also, I believe software development can assist companies and people by solving issues, advancing business, reaching goals, and get people a better life.</P>
 
 
 
@@ -28,17 +28,7 @@ I'm quite a self-taught person who's fascinated by technology, mainly about prog
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 
-<!--
-**JaksonJose/JaksonJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaksonJose&show_icons=true&theme=gotham" /></code>
+<code><img align="center" src="https://github-readme-stats.vercel.app/api?username=JaksonJose&show_icons=true&theme=gotham"/></code>
