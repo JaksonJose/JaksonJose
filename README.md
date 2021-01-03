@@ -30,5 +30,17 @@ I'm quite a self-taught person who's fascinated by technology, mainly about prog
 
 
 
-<code><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaksonJose&show_icons=true&theme=gotham" /></code>
-<code><img align="center" src="https://github-readme-stats.vercel.app/api?username=JaksonJose&show_icons=true&theme=gotham"/></code>
+<center>
+  <table align="center">
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaksonJose&show_icons=true&theme=gotham" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaksonJose&show_icons=true&theme=gotham"/>
+      </td>
+    </tr>
+  </table>
+</center>
+
+
