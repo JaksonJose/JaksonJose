@@ -1,6 +1,6 @@
 <h1 align="center"> With a borderless world comes superb opportunities.</h1>
 
-<p align="Justify">Hey dude! This is <strong>Jakson José</strong>, I've been focused on <strong>Full-Stack Developer skills</strong> and currently working at QAT Global.
+<p align="Justify">Hey Yo! This is <strong>Jakson José</strong>, I've been focused on <strong>Full-Stack Developer skills</strong> and currently working at QAT Global.
 I'm quite a self-taught person who's fascinated by technology, mainly about programming. Also, I believe software development can assist companies and people by solving issues, advancing business, reaching goals, and get people a better life.</P>
 
 
@@ -14,13 +14,14 @@ I'm quite a self-taught person who's fascinated by technology, mainly about prog
 
 ## My Development Stack
 
-### Technologies
+### My Stack
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 
 ### DevOps
@@ -29,6 +30,7 @@ I'm quite a self-taught person who's fascinated by technology, mainly about prog
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 
 
+<h3 align="center">My Stats<h3>
 
 <center>
   <table align="center">
