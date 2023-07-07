@@ -1,8 +1,8 @@
 <div>
   <h1 align="center"> With a borderless world comes superb opportunities.</h1>
   <p align="Justify">
-    Hey Yo! This is <strong>Jakson José</strong>, I've been focused on <strong>Full-Stack Developer skills</strong>.
-    I'm quite a self-taught person who's fascinated by technology, mainly about programming. Also, I believe software development can assist companies and people by     solving issues, advancing business, reaching goals, and get people a better life.
+    Hey Yo! This is <strong>Jakson José</strong>, I'm .NET Core Developer.
+    I'm quite a self-taught person who's fascinated by technology, mainly about programming. Also, I believe software development can assist companies and people by solving issues, advancing business, reaching goals, and get people a better life.
   </P>
 </div>
 
